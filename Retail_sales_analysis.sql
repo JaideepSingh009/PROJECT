@@ -4,7 +4,7 @@ CREATE DATABASE retailsalesDB;
 
 USE retailsalesDB;
 
- DROP TABLE IF EXISTS retail_sales;
+DROP TABLE IF EXISTS retail_sales;
 CREATE TABLE retail_sales 
 		(
 			transactions_id INT PRIMARY KEY, 
