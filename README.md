@@ -144,7 +144,16 @@ FROM monthly_avg
 WHERE rnk = 1
 ORDER BY year;
 ```
-
+8. **Write a SQL query to find the top 5 customers based on the highest total sales.**:
+```sql
+SELECT 
+    customer_id,
+    SUM(total_sale) as total_sales
+FROM retail_sales
+GROUP BY 1
+ORDER BY 2 DESC
+LIMIT 5
+```
 9. **Write a SQL query to find the number of unique customers who purchased items from each category.**:
 ```sql
 ```
