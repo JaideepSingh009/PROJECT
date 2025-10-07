@@ -30,7 +30,7 @@ Through SQL queries, we uncover insights such as sales trends, customer behavior
 
   ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `retail_sales.csv``.
+- **Database Creation**: The project starts by creating a database named `retailsalesDB``.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
