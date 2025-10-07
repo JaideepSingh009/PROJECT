@@ -193,9 +193,16 @@ FROM hourly_sale
 GROUP BY shift
 ```
 
-## Findings
+## Key Findings
 
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
+- **Customer Demographics:**  
+  The dataset covers customers from diverse age groups, with sales distributed across categories such as **Clothing** and **Beauty**.  
+
+- **High-Value Transactions:**  
+  Several transactions exceeded **1000** in total sales, highlighting premium purchases that significantly contribute to revenue.  
+
+- **Sales Trends:**  
+  Monthly analysis reveals clear variations in sales, helping identify **peak seasons** and periods of high demand.  
+
+- **Customer Insights:**  
+  The analysis highlights the **top-spending customers** and uncovers the most **popular product categories**, providing valuable insights into customer preferences.
