@@ -1,4 +1,4 @@
-# RETAIL SALES ANALYSIS PROJECT(SQL Project)
+# RETAIL SALES ANALYSIS(SQL Project)
 ## Project Overview
 This project explores and analyzes retail sales data using **SQL**.  
 The dataset contains transactions including customer demographics, product categories, sales amounts, and timestamps.  
